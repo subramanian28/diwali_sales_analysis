@@ -50,7 +50,3 @@ Sales data was dissected based on product categories and specific product IDs. T
 
 The analysis concludes that individuals in the age group of 26-35, particularly married women, residing in states such as Uttar Pradesh, Maharashtra, and Karnataka, and working in sectors like IT, Healthcare, and Aviation, are more likely to purchase products from categories such as Food, Clothing, and Electronics.
 
-## Recommendations
-
-- Targeted marketing campaigns could focus on the identified demographic segments to maximize sales.
-- Inventory management strategies can be adjusted to meet the demand for popular product categories.
